@@ -1,0 +1,140 @@
+$date
+	Sat Dec 24 11:02:01 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module serial_adder_tb $end
+$var wire 1 ! sum $end
+$var wire 1 " cout $end
+$var reg 1 # a $end
+$var reg 1 $ b $end
+$var reg 1 % cin $end
+$var reg 1 & clk $end
+$var reg 1 ' reset $end
+$scope module S $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 % cin $end
+$var wire 1 & clk $end
+$var wire 1 ' reset $end
+$var reg 1 ( c $end
+$var reg 1 " cout $end
+$var reg 1 ) flag $end
+$var reg 1 ! sum $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0)
+x(
+1'
+0&
+0%
+0$
+0#
+x"
+0!
+$end
+#5
+1&
+#10
+0&
+#15
+1&
+#20
+0&
+1%
+1$
+1#
+0'
+#25
+1!
+0"
+1)
+1(
+1&
+#30
+0&
+0%
+0$
+#35
+0!
+1&
+#40
+0&
+0#
+#45
+0(
+1!
+1&
+#50
+0&
+1$
+1#
+#55
+1(
+0!
+1&
+#60
+0)
+1"
+0&
+1'
+#65
+1&
+#70
+0&
+1%
+0'
+#75
+1!
+0"
+1)
+1&
+#80
+0&
+0%
+0#
+#85
+0!
+1&
+#90
+0&
+0$
+#95
+0(
+1!
+1&
+#100
+0&
+1#
+#105
+1&
+#110
+0&
+1$
+#115
+1(
+0!
+1&
+#120
+0)
+1"
+0&
+1'
+#125
+1&
+#130
+0&
+#135
+1&
+#140
+0&

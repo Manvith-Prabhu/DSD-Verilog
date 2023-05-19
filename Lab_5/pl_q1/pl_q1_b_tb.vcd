@@ -1,0 +1,85 @@
+$date
+	Wed Nov 16 18:07:01 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module pl_q1_tb $end
+$var wire 4 ! S [3:0] $end
+$var wire 1 " Co $end
+$var reg 4 # A [3:0] $end
+$var reg 4 $ B [3:0] $end
+$var reg 1 % Ci $end
+$scope module A1 $end
+$var wire 4 & A [3:0] $end
+$var wire 4 ' B [3:0] $end
+$var wire 1 % Cin $end
+$var reg 5 ( C [4:0] $end
+$var reg 1 " Cout $end
+$var reg 4 ) S [3:0] $end
+$var integer 32 * i [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b101 *
+b0 )
+b0 (
+b0 '
+b0 &
+0%
+b0 $
+b0 #
+0"
+b0 !
+$end
+#10
+1"
+b1111 !
+b1111 )
+b101 *
+b11111 (
+1%
+b1111 $
+b1111 '
+b1111 #
+b1111 &
+#20
+0"
+b101 *
+b0 (
+0%
+b0 #
+b0 &
+#30
+b101 *
+b0 $
+b0 '
+b1111 #
+b1111 &
+#40
+1"
+b101 !
+b101 )
+b101 *
+b10101 (
+1%
+b1010 $
+b1010 '
+b1010 #
+b1010 &
+#50
+b11111 (
+b0 !
+b0 )
+b101 *
+b101 $
+b101 '
+#60
